@@ -1,5 +1,5 @@
 # Calculater-Web-App
 
 
-![](./desing/ScreenShot.png)
+![](./desing/ScreenShot.jpg)
 
