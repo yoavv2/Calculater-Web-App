@@ -1,4 +1,4 @@
-# Calculater-Web-App
+# Calculator-Web-App
 
 <img src="./desing/ScreenShot.jpg" width="500">
 
